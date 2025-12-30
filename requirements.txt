@@ -1,0 +1,7 @@
+langchain
+langgraph
+fastapi 
+uvicorn
+pymysql
+langchain_groq
+sqlalchemy
